@@ -17,7 +17,7 @@ npm install
 
 ## Usage
 ```sh
-npm start
+npm run dev
 ```
 This will start the development server at `http://localhost:3000`.
 
